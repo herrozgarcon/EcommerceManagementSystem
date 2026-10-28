@@ -1,2 +1,2 @@
-﻿Console.Write("eknr sdm");
+﻿
 

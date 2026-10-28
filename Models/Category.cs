@@ -8,7 +8,7 @@ public class Category
 
     public string CategoryName { get; set; } = string.Empty;
 
-    public string? Description { get; set; }
+    public string? Aislelocation { get; set; }
 
     public bool IsActive { get; set; }
 
